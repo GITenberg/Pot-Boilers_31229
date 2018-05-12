@@ -1,0 +1,36 @@
+_repo: Pot-Boilers_31229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bell, Clive
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '5034'
+    url: http://www.gutenberg.org/2009/agents/5034
+    wikipedia: http://en.wikipedia.org/wiki/Clive_Bell
+description: ''
+gutenberg_issued: '2010-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31229'
+  lccn: '20000932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Art'
+tableOfContents: 'Foreword -- Montaigne in facsimile -- Ibsen -- Miss Coleridge --
+  Peacock -- Boswell’s letters -- Carlyle’s loves and love-letters -- The Lysistrata
+  -- Trelawny’s letters -- Sophocles in London -- The flight of the dragon -- William
+  Morris -- Persian miniatures -- Countercheck quarrelsome -- Picture shows: The London
+  salon. English post-impressionists. An expensive "masterpiece." Marchand. The Mansard
+  gallery -- Contemporary art in England -- Art and war -- Before the war.'
+title: Pot-Boilers
+url: http://www.gutenberg.org/ebooks/31229
